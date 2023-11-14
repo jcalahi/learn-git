@@ -1,2 +1,2 @@
-console.log('initial commit');
-console.log('second commit');
+console.log('code changes 1');
+console.log('code changes 2');
