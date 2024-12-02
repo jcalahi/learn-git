@@ -1,2 +1,1 @@
-console.log('code changes 1');
-console.log('code changes 2');
+console.log('new changes');
